@@ -33,7 +33,7 @@ The application is a complete **Bookstore** system, featuring:
 
 ## Preview
 
-![Bookstore Preview](.src/assets/github-cover.png)
+![Bookstore Preview](./src/assets/github-cover.png)
 
 
 
