@@ -2,6 +2,14 @@
 
 This project covers both **frontend** and **backend** development from scratch.
 
+
+
+## Preview
+
+![Bookstore Preview](./src/assets/github-cover.png)
+
+
+
 ## Description
 
 The application is a complete **Bookstore** system, featuring:
@@ -30,12 +38,6 @@ The application is a complete **Bookstore** system, featuring:
   - Upload new books.
   - Manage and update book information.
   - Delete books as needed.
-
-## Preview
-
-![Bookstore Preview](./src/assets/github-cover.png)
-
-
 
 ## Getting Started
 
