@@ -110,9 +110,7 @@ const Navbar = () => {
             )}
           </div>
 
-          <button className="hidden sm:block">
-            <HiOutlineHeart className="size-6" />
-          </button>
+         
 
           <Link
             to="/cart"

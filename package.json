@@ -1,8 +1,17 @@
 {
-  "name": "frontend",
+  "name": "book-store",
+  "description": "A complete application for managing a bookstore, with frontend and backend developed from scratch.",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "author": {
+    "name": "Francesco Davide di Vita",
+    "url": "https://portfolio-6q18.onrender.com"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/mister-nothing00/book-store-frontend"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
